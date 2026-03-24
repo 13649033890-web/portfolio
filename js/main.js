@@ -174,7 +174,7 @@ const timelineData = [
     {
         date: '2024.6',
         title: '第一次徒步',
-        desc: '完成人生第一次徒步旅行，在行走中与自然对话，感受到久违的内心宁静与幸福感。',
+        desc: '完成人生第一次徒步旅行，收获幸福',
         type: 'minor',
         column: 'right'
     },
