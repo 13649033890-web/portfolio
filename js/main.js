@@ -193,7 +193,7 @@ const timelineData = [
         column: 'left'
     },
     {
-        date: '2025.2 — 2025.6',
+        date: '2025.2 — 2025.5',
         title: '网易云音乐（杭州） · 产品实习',
         desc: '内容产品领域的深度参与，理解内容生态构建与用户消费心理。',
         type: 'minor',
